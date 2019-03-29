@@ -1,0 +1,42 @@
+body{
+    height: 100%;
+     
+}
+video{
+   position: fixed;
+    top: 50%;
+    left:50%;
+    margin-top: -50%;
+    margin-left: -50%;
+    z-index: 1;
+    
+    
+}
+div{
+    position: relative;
+    z-index: 2;
+    width: 550px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 100px;
+}
+h2{
+      font-size: 2.6em;
+    color: #000000;
+    background-color: yellowgreen;
+    padding: 2px;
+}
+
+p{
+    font-size:1em;
+    color: #ffffff;
+    
+}
+a{
+        background-color: aqua;
+    padding: 6px 10px 6px 10px;
+    text-decoration: none;
+    font-size: 20px;
+    color: #000000;
+    font-weight: bold;
+}
